@@ -1,10 +1,10 @@
 
 // const { clientId, guildId, token, publicKey } = require('./config.json');
 require('dotenv').config()
-const APPLICATION_ID = process.env.APPLICATION_ID 
-const TOKEN = process.env.TOKEN 
-const PUBLIC_KEY = process.env.PUBLIC_KEY || 'not set'
-const GUILD_ID = process.env.GUILD_ID 
+const APPLICATION_ID = "1074870623001645129"
+const TOKEN = "MTA3NDg3MDYyMzAwMTY0NTEyOQ.GlSExn.kzMTle67z0cdUgnSKc2-wPdT_fORg__G--ZYX0"
+const PUBLIC_KEY = "2adc900f1e3b7fdd719a89df7ec6cd7af85d6d63779118d6e5020a8008d76a89"
+const GUILD_ID = "1074867982838272120"
 
 
 const axios = require('axios')
